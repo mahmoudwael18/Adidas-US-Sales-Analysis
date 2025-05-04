@@ -60,3 +60,5 @@ This project involves data analysis and dashboard creation for Adidas US Sales d
 
 ## 📁 Folder Structure
 
+├── Adidas US Sales Datasets.xlsx
+└── README.md
